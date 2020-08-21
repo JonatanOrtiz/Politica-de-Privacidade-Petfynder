@@ -13,26 +13,7 @@ principal. A sua privacidade é a essência da forma como concebemos e criamos o
 <p>Compreendemos que você nos confia as suas informações e é nosso objetivo manter sempre essa confiança. Este processo tem início com a explicação das informações que coletamos, o motivo pelo qual as coletamos, como são usadas e as suas escolhas em relação às suas informações. Esta Política descreve as práticas de privacidade em linguagem simples, mantendo a terminologia técnica e legal a um mínimo.</p>
 <p>Esta Política de Privacidade entra em vigor em 25 de maio de 2018. A versão anterior desta Política de Privacidade, disponível <a href="/privacy-2017-10-26">aqui</a>, estará em vigor até essa data</p>
 <p><strong>DATA DE ENTRADA EM VIGOR:</strong> 25 de maio de 2018</p>
-<ol>
-<li><a href="#who-we-are">Quem somos</a></li>
-<li><a href="#where-this-applies">Aplicação da presente Política de Privacidade</a></li>
-<li><a href="#information-we-collect">Informações que coletamos</a></li>
-<li><a href="#cookie-and-similar-tech">Cookies e outras tecnologias semelhantes de coleta de dados</a></li>
-<li><a href="#how-we-use-info">Como usamos as informações</a></li>
-<li><a href="#how-we-share-info">Como compartilhamos as informações</a></li>
-<li><a href="#cross-border-data">Transferências de dados transfronteiriças</a></li>
-<li><a href="#your-rights">Os seus direitos</a></li>
-<li><a href="#residents-of-california">Residentes da Califórnia</a></li>
-<li><a href="#how-we-protect-your-info">Como protegemos as suas informações</a></li>
-<li><a href="#how-long-we-retain">Durante quanto tempo retemos as suas informações</a></li>
-<li><a href="#childrens-privacy">Privacidade de crianças</a></li>
-<li><a href="#policy-changes">Alterações da Política de Privacidade</a></li>
-<li><a href="#how-to-contact">Como entrar em contato conosco</a></li>
-</ol>
-<h3>Para clientes da Califórnia</h3>
-<p>Consulte nossa <a href="/ccpa-addendum">Declaração de Privacidade da Califórnia</a> para saber mais sobre os direitos da privacidade na Califórnia.</p>
 <h3>1. Quem somos</h3>
-<p>Se você vive na União Europeia, a empresa responsável pelas suas informações ao abrigo desta Política de Privacidade (o "controlador de dados") é:</p>
 <blockquote>
 <p>MTCH Technology Services Limited</p>
 <p>Tinder</p>
@@ -40,22 +21,6 @@ principal. A sua privacidade é a essência da forma como concebemos e criamos o
 <p>42 Charlemont Street</p>
 <p>Dublin 2, D02 R593</p>
 <p>Ireland</p>
-</blockquote>
-<p>Se você mora no Japão, a empresa responsável pelas suas informações é:</p>
-<blockquote>
-<p>MG Japan Services GK</p>
-<p>4F Sumitomo Fudosan Azabu Bldg</p>
-<p>1-4-1 Mita</p>
-<p>Minato-ku, Tóquio 108-0073</p>
-<p>Japão</p>
-</blockquote>
-<p>Se você mora fora da União Europeia e do Japão, a empresa responsável pelas suas informações é:</p>
-<blockquote>
-<p>Match Group, LLC</p>
-<p>8750 North Central Expressway</p>
-<p>Suite 1400</p>
-<p>Dallas, TX 75231 (EUA)</p>
-<p>Estados Unidos</p>
 </blockquote>
 <h3>2. Aplicação da presente Política de Privacidade</h3>
 <p>Esta Política de Privacidade aplica-se a websites, aplicativos, eventos e outros serviços operados pelo Tinder. Por uma questão de simplicidade, referimo-nos a todos como "serviços" nesta Política de Privacidade. Para um esclarecimento adicional, foram adicionados links para esta Política de Privacidade em todos os serviços aplicáveis.</p>
