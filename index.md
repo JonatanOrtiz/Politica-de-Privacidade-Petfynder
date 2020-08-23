@@ -59,7 +59,8 @@
 <ul>
   <li align="justify">Ao criar uma conta, você nos fornece pelo menos os seus dados de login, bem como alguns dados
     básicos necessários
-    para que o serviço possa funcionar, como o seu email.</li>
+    para que o serviço possa funcionar, como o seu email.
+    Caso você realize o login ou criação de conta pelo Facebook, coletaremos de sua conta o seu nome, foto de perfil e email.</li>
   <li align="justify">Ao completar o seu perfil, você pode compartilhar informações adicionais conosco, como sua
     localização. Para
     adicionar determinado conteúdo, por exemplo, imagens, você pode permitir o acesso à sua
