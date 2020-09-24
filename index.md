@@ -130,7 +130,46 @@
     uma foto em nossos serviços).</li>
 </ul>
 <h3>4. Cookies e outras tecnologias semelhantes de coleta de dados</h3>
-<p align="justify">Não utilizamos cookies</p>
+<h3>Existem diferentes tipos de cookies?</h3>
+<h4>Cookies originais e cookies de terceiros</h4>
+<p>Existem cookies originais e cookies de terceiros. Os cookies originais são colocados no seu dispositivo diretamente por nós. Por exemplo, usamos cookies originais para adaptar o nosso site às preferências de idioma do seu navegador e para melhor compreender o seu uso do nosso site. Os cookies de terceiros são colocados no seu dispositivo pelos nossos fornecedores de serviços e parceiros. Por exemplo, usamos cookies de terceiros para medir o número de usuários no nosso site ou para lhe permitir compartilhar conteúdo por meio de outras plataformas de redes sociais.</p>
+<h4>Cookies de sessão e cookies permanentes</h4>
+<p>Existem cookies de sessão e cookies permanentes. Os cookies de sessão duram apenas até você fechar o seu navegador. Usamos cookies de sessão por diversos motivos, incluindo para obter mais informações sobre a sua utilização do nosso site durante uma única sessão de navegação e para ajudá-lo a usar o nosso site de forma mais eficiente. Os cookies permanentes têm uma vida útil mais longa e não são apagados automaticamente quando você fecha o seu navegador. Esses tipos de cookies são usados principalmente para ajudá-lo a iniciar a sessão outra vez de forma rápida no nosso site e para fins de análise.</p>
+<h3>E outras tecnologias de rastreamento, como web beacons?</h3>
+<p>Outras tecnologias, como web beacons (também denominados etiquetas pixel ou clear gifs), URL de rastreamento ou outros kits de desenvolvimento de software (SDK) são usadas para efeitos semelhantes. Os web beacons são pequenos arquivos gráficos que contêm um identificador único que nos permite reconhecer quando alguém visitou o nosso serviço ou abriu um e-mail enviado por nós.  Os URLs de rastreamento são links gerados de forma personalizada que nos ajudam a compreender qual a origem do tráfego que chega às nossas páginas web. Os SDK são pequenos pedaços de código incluídos em aplicativos, que funcionam como cookies e web beacons.</p>
+<p>Por questões de simplicidade, também nos referimos a essas tecnologias como "cookies" nesta Política de Cookies.</p>
+<h3>Por que utilizamos os cookies?</h3>
+<p>Como a grande maioria de fornecedores de serviços online, usamos cookies para fornecer, proteger e melhorar os nossos serviços, inclusive lembrando quais são as suas preferências, reconhecendo-o quando visita o nosso aplicativo e personalizando e adaptando os nossos anúncios aos seus interesses. Para realizar esses objetivos, podemos também vincular informações de cookies a outras informações pessoais que temos do usuário.</p>
+<p>Quando você visita o nosso aplicativo, alguns ou todos os tipos de cookies indicados a seguir podem ser instalados no seu dispositivo.</p>
+<table>
+<thead>
+<tr>
+<th><strong>Tipo de cookie</strong></th>
+<th><strong>Descrição</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Cookies analíticos</strong></td>
+<td>Esses cookies nos ajudam a compreender como o nosso aplicativo está sendo usado, qual é a eficácia das campanhas de marketing, e também nos ajudam a personalizar e a melhorar os nossos sites em função de nossos usuários.</td>
+</tr>
+<tr>
+<td><strong>Cookies de publicidade</strong></td>
+<td>Esses cookies são usados para tornar as mensagens de publicidade mais relevantes para você.  Eles realizam funções como impedir que o mesmo anúncio continue a surgir de forma repetitiva, garantindo que os anúncios sejam apresentados de forma correta para os anunciantes, selecionando publicidade baseada nos interesses dos usuários e medindo o número e o desempenho dos anúncios apresentados, como o número de pessoas que clicou num anúncio específico.</td>
+</tr>
+</tbody>
+</table>
+<h3>Cookies sociais</h3>
+<p>Para permitir que você entre com suas redes sociais, alguns recursos deste aplicativo utilizam plug-ins de redes sociais (por ex., logar com o Facebook). Dependendo das configurações de suas contas de redes sociais, recebemos automaticamente informações da plataforma de rede social quando você utiliza o botão correspondente no nosso aplicativo.</p>
+<p>Para obter mais informações sobre cookies de redes sociais, sugerimos que você consulte a política de privacidade e a política de cookies da plataforma da rede social.</p>
+<h3>Cookies Google™</h3>
+<h4>Coisas que o Google quer ter a certeza que você sabe sobre a tecnologia de coleta de dados do Google</h4>
+<h4>Cookies da API Google™ Maps</h4>
+<p>Alguns recursos do nosso aplicativo dependem do uso de cookies da API Google™ Maps. Esses cookies serão armazenados no seu dispositivo.</p>
+<p>Ao navegar neste site e ao usar os serviços que dependem de cookies da API Google™ Maps, você aceita o armazenamento, a coleta desses cookies no seu dispositivo e o acesso, uso e compartilhamento por parte do Google dos dados coletados.</p>
+<p>O Google™ gerencia as informações e as suas escolhas referentes aos cookies da API Google™ Maps por meio de uma interface separada daquela fornecida pelo seu navegador. Para obter mais informações, consulte <a href="https://www.google.com/policies/technologies/cookies/">https://www.google.com/policies/technologies/cookies/</a>.</p>
+<h4>Google Analytics</h4>
+<p>Usamos o Google Analytics, um serviço do Google que usa cookies e outras tecnologias de coleta de dados para coletar informações sobre o seu uso do site e de serviços para comunicar as tendências do site.</p>
 <h3>5. Como usamos as informações</h3>
 <p align="justify">O principal motivo pelo qual usamos as suas informações é o de fornecer e melhorar os nossos
   serviços. Além disso,
