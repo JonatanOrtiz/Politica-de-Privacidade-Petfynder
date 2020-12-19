@@ -129,7 +129,7 @@
     Do mesmo modo, se você nos autorizar, podemos coletar as suas fotografias (por exemplo, se você publicar
     uma foto em nossos serviços).</li>
 </ul>
-<h3>4. Cookies e outras tecnologias semelhantes de coleta de dados</h3>
+<h3 id="cookies-policy">4. Cookies e outras tecnologias semelhantes de coleta de dados</h3>
 <h3>Existem diferentes tipos de cookies?</h3>
 <h4>Cookies originais e cookies de terceiros</h4>
 <p>Existem cookies originais e cookies de terceiros. Os cookies originais são colocados no seu dispositivo diretamente por nós. Por exemplo, usamos cookies originais para adaptar o nosso site às preferências de idioma do seu navegador e para melhor compreender o seu uso do nosso site. Os cookies de terceiros são colocados no seu dispositivo pelos nossos fornecedores de serviços e parceiros. Por exemplo, usamos cookies de terceiros para medir o número de usuários no nosso site ou para lhe permitir compartilhar conteúdo por meio de outras plataformas de redes sociais.</p>
